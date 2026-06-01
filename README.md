@@ -7,8 +7,6 @@ A Streamlit-based dashboard that helps students explore potential college and br
  **App URL:**  
 https://leetcode-analytics.vercel.app/
 
----
-
 ## Features
 
 * Filter colleges based on:
