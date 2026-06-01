@@ -2,6 +2,13 @@
 
 A Streamlit-based dashboard that helps students explore potential college and branch options using historical JoSAA closing rank data.
 
+## Live Demo
+
+ **App URL:**  
+https://leetcode-analytics.vercel.app/
+
+---
+
 ## Features
 
 * Filter colleges based on:
