@@ -5,7 +5,7 @@ A Streamlit-based dashboard that helps students explore potential college and br
 ## Live Demo
 
  **App URL:**  
-https://leetcode-analytics.vercel.app/
+https://josaa-college-finder.streamlit.app/
 
 ## Features
 
