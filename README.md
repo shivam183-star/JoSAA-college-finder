@@ -31,8 +31,8 @@ Before processing:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/shivam183-star/JoSAA-college-finder.git
+cd JoSAA-college-finder
 ```
 
 ### 2. Install dependencies
